@@ -34,6 +34,15 @@
 - Measure real-world performance, including:
   - Model size
   - Prediction latency at various image resolutions
+ 
+  - ### **Evaluation Metrics**
+
+| **Model**           | **Top-1 Accuracy** | **Top-5 Accuracy** | **Model Size (MB)** | **Latency (ms)** | **RAM Usage (MB)** | **Hierarchical Accuracy** |
+|----------------------|--------------------|--------------------|---------------------|------------------|--------------------|----------------------------|
+| **BioCLIP (ViT-B/16)** | TBD                | TBD                | 344                 | TBD              | TBD                | TBD                        |
+| **ViT-Tiny**         | TBD                | TBD                | ~20–25              | TBD              | TBD                | TBD                        |
+| **EfficientNet-Lite**| TBD                | TBD                | ~10–20              | TBD              | TBD                | TBD                        |
+
 
 ---
 
