@@ -37,6 +37,15 @@
 
 ---
 
+## Useful Links
+
+- **BioCLIP Website**: [https://imageomics.github.io/bioclip/](https://imageomics.github.io/bioclip/)
+- **BioCLIP Code Repository**: [https://github.com/Imageomics/BioCLIP](https://github.com/Imageomics/BioCLIP)
+- **BioCLIP Python Package**: [https://github.com/Imageomics/pybioclip](https://github.com/Imageomics/pybioclip)
+- **BioCLIP Models on HuggingFace**: [https://huggingface.co/imageomics/bioclip](https://huggingface.co/imageomics/bioclip)
+- **Tree of Life-10M Dataset on HuggingFace**: [https://huggingface.co/datasets/imageomics/TreeOfLife-10M](https://huggingface.co/datasets/imageomics/TreeOfLife-10M)
+
+
 ## Readings
 
 ### CLIP Models
