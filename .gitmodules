@@ -1,0 +1,3 @@
+[submodule "bio-scope"]
+	path = bio-scope
+	url = git@github.com:austin-carnahan/bio-scope.git
