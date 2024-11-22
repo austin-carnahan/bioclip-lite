@@ -80,4 +80,4 @@
 
 ## Goals
 - Deliver an efficient BioCLIP Lite model for mobile platforms.
-- Publish a reusable package to enable real-time biological classification in the field.
+- Test bioclip-lite performance on mobile devices
